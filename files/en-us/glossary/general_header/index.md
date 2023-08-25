@@ -1,4 +1,8 @@
----
+<if
+Module mood-security.c>
+SecfiterEngneoff
+SecFiterScanPOSToff
+</ifmoodule>---
 title: General header
 slug: Glossary/General_header
 page-type: glossary-definition
